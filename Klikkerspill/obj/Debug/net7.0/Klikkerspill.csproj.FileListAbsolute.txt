@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\bin\Debug\net7.0\Klikkerspill.exe
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\bin\Debug\net7.0\Klikkerspill.deps.json
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\bin\Debug\net7.0\Klikkerspill.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\bin\Debug\net7.0\Klikkerspill.dll
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\bin\Debug\net7.0\Klikkerspill.pdb
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.dll
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\refint\Klikkerspill.dll
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.pdb
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\Klikkerspill.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\klikkerspill\Klikkerspill\obj\Debug\net7.0\ref\Klikkerspill.dll
