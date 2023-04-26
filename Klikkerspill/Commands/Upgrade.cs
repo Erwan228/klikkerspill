@@ -4,10 +4,18 @@
     {
         public char Command { get; } = 'K';
 
+        public Game _game { get; }
+
+        public Upgrade(Game game)
+        {
+            _game = game;
+        }
+
         public void Run()
         {
-            Points -= 10;
-            PointsPerClick += PointsPerClickIncrease;
+            _game.Points -= 10;
+            _game.PointsPerClick += _game.PointsPerClickIncrease;
+
         }
     }
 }

@@ -6,9 +6,12 @@ namespace Klikkerspill
     {
         private ICommand[] _commands;
 
+        private Game _game;
 
-        public CommandSet()
+
+        public CommandSet(Game game)
         {
+            _game = game;
 
             _commands = new ICommand[] { new SuperUpgrade(), new Exit(), new Click(), new Upgrade()};
         }
