@@ -4,5 +4,6 @@
     {
         char Command { get; }
         void Run();
+        string ShowDescription();
     }
 }

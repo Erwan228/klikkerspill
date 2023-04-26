@@ -13,7 +13,7 @@ namespace Klikkerspill
         {
             _game = game;
 
-            _commands = new ICommand[] { new SuperUpgrade(), new Exit(), new Click(), new Upgrade()};
+            _commands = new ICommand[] { new SuperUpgrade(game), new Exit(), new Click(game), new Upgrade(game)};
         }
 
         public void RunCommand(char character)
@@ -24,6 +24,14 @@ namespace Klikkerspill
                 {
                     command.Run();
                 }
+            }
+        }
+        
+        public void ShowCommandDescriptions()
+        {
+            foreach(var command in _commands)
+            {
+                Console.WriteLine(command.ShowDescription());
             }
         }
     }

@@ -8,5 +8,10 @@
         {
             Environment.Exit(0);
         }
+
+        public string ShowDescription()
+        {
+            return "X - Lukker programmet";
+        }
     }
 }

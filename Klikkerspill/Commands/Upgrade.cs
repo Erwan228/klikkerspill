@@ -4,18 +4,25 @@
     {
         public char Command { get; } = 'K';
 
-        public Game _game { get; }
+        public Game Game { get; }
 
         public Upgrade(Game game)
         {
-            _game = game;
+            Game = game;
         }
 
         public void Run()
         {
-            _game.Points -= 10;
-            _game.PointsPerClick += _game.PointsPerClickIncrease;
+            if (Game.Points >= 10)
+            {
+                Game.Points -= 10;
+                Game.PointsPerClick += Game.PointsPerClickIncrease;
+            }
+        }
 
+        public string ShowDescription()
+        {
+            return "K - Du kjøper en vanlig upgrade";
         }
     }
 }
